@@ -1,0 +1,7 @@
+.idea/
+**/.env
+.vscode/
+__pycache__/
+/.pytest_cache/
+/cdk/cdk.out/
+.DS_Store
