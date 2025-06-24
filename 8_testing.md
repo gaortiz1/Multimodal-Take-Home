@@ -12,7 +12,7 @@ We follow a **test pyramid** approach:
 
 ---
 
-### 8.2. Types of Tests & Priorities
+### 8.2. Types of Tests & Prioritiesmoni
 
 | Test Type       | Purpose                                                    | Priority | Tools                               |
 |-----------------|------------------------------------------------------------|----------|-------------------------------------|

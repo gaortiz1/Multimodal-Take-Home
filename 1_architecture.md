@@ -2,6 +2,10 @@
 
 ![High-Level Architecture Diagram](architecture.png)
 
+![C2](c2.png)
+
+![C3](c3.png)
+
 ### 1.1. High-Level Components and Interactions
 
 This service is composed of two main modules: the **API Module** and the **Worker Module**, both decoupled and scalable.
